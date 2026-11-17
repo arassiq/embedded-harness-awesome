@@ -1,0 +1,164 @@
+{
+  "retrieved_on": "2026-11-16",
+  "index": "Semantic Scholar Graph API",
+  "count_field": "citationCount",
+  "endpoint": "https://api.semanticscholar.org/graph/v1/paper/batch",
+  "notes": [
+    "Counts are index-specific snapshots, not quality scores.",
+    "BFCL unresolved: search HTTP 429; URL batch lookup HTTP 400."
+  ],
+  "records": {
+    "ARXIV:2106.09685": {
+      "paperId": "a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+      "externalIds": {
+        "DBLP": "conf/iclr/HuSWALWWC22",
+        "ArXiv": "2106.09685",
+        "DOI": "10.48550/arXiv.2106.09685",
+        "CorpusId": 235458009
+      },
+      "url": "https://www.semanticscholar.org/paper/a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+      "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+      "year": 2021,
+      "citationCount": 25943,
+      "publicationDate": "2021-06-17"
+    },
+    "ARXIV:2402.04333": {
+      "paperId": "95898b1f82cf7ad7d96fcc85b4def7f086325af5",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2402-04333",
+        "ArXiv": "2402.04333",
+        "DOI": "10.48550/arXiv.2402.04333",
+        "CorpusId": 267522839
+      },
+      "url": "https://www.semanticscholar.org/paper/95898b1f82cf7ad7d96fcc85b4def7f086325af5",
+      "title": "LESS: Selecting Influential Data for Targeted Instruction Tuning",
+      "year": 2024,
+      "citationCount": 706,
+      "publicationDate": "2024-02-06"
+    },
+    "ARXIV:2410.15225": {
+      "paperId": "ca0c191b51a3e559ccbe44e83cf368c371f1847f",
+      "externalIds": {
+        "ArXiv": "2410.15225",
+        "CorpusId": 273501865
+      },
+      "url": "https://www.semanticscholar.org/paper/ca0c191b51a3e559ccbe44e83cf368c371f1847f",
+      "title": "Chasing Random: Instruction Selection Strategies Fail to Generalize",
+      "year": 2024,
+      "citationCount": 17,
+      "publicationDate": "2024-10-19"
+    },
+    "ARXIV:2506.10943": {
+      "paperId": "b61a64b24ddaf5fb83f8c0cd0c48dd9c4e96d47f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-10943",
+        "ArXiv": "2506.10943",
+        "DOI": "10.48550/arXiv.2506.10943",
+        "CorpusId": 279318966
+      },
+      "url": "https://www.semanticscholar.org/paper/b61a64b24ddaf5fb83f8c0cd0c48dd9c4e96d47f",
+      "title": "Self-Adapting Language Models",
+      "year": 2025,
+      "citationCount": 107,
+      "publicationDate": "2025-06-12"
+    },
+    "ARXIV:2601.19897": {
+      "paperId": "370a293b5dcf9d456ba7f805b5b0a3d8e984ff6e",
+      "externalIds": {
+        "ArXiv": "2601.19897",
+        "DBLP": "journals/corr/abs-2601-19897",
+        "DOI": "10.48550/arXiv.2601.19897",
+        "CorpusId": 285071839
+      },
+      "url": "https://www.semanticscholar.org/paper/370a293b5dcf9d456ba7f805b5b0a3d8e984ff6e",
+      "title": "Self-Distillation Enables Continual Learning",
+      "year": 2026,
+      "citationCount": 276,
+      "publicationDate": "2026-01-27"
+    },
+    "ARXIV:2604.00356": {
+      "paperId": "3feee811bbd0f6cd177d6dffc6109d9592e245ce",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2604-00356",
+        "ArXiv": "2604.00356",
+        "DOI": "10.48550/arXiv.2604.00356",
+        "CorpusId": 287021491
+      },
+      "url": "https://www.semanticscholar.org/paper/3feee811bbd0f6cd177d6dffc6109d9592e245ce",
+      "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
+      "year": 2026,
+      "citationCount": 3,
+      "publicationDate": "2026-04-01"
+    },
+    "ARXIV:2412.21139": {
+      "paperId": "d3f0dc8ec576c9a1dcc31375bbbbfe65135609a1",
+      "externalIds": {
+        "DBLP": "conf/icml/Pan0NJ0S025",
+        "ArXiv": "2412.21139",
+        "DOI": "10.48550/arXiv.2412.21139",
+        "CorpusId": 275133330
+      },
+      "url": "https://www.semanticscholar.org/paper/d3f0dc8ec576c9a1dcc31375bbbbfe65135609a1",
+      "title": "Training Software Engineering Agents and Verifiers with SWE-Gym",
+      "year": 2024,
+      "citationCount": 445,
+      "publicationDate": "2024-12-30"
+    },
+    "ARXIV:2504.21798": {
+      "paperId": "cbdfe7c75676b6ba85f66bdffe162f5991d6f536",
+      "externalIds": {
+        "ArXiv": "2504.21798",
+        "DBLP": "journals/corr/abs-2504-21798",
+        "DOI": "10.48550/arXiv.2504.21798",
+        "CorpusId": 278207859
+      },
+      "url": "https://www.semanticscholar.org/paper/cbdfe7c75676b6ba85f66bdffe162f5991d6f536",
+      "title": "SWE-smith: Scaling Data for Software Engineering Agents",
+      "year": 2025,
+      "citationCount": 388,
+      "publicationDate": "2025-04-30"
+    },
+    "ARXIV:2505.00234": {
+      "paperId": "1125a01656e1a022c82b15b539129e501ea8d007",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-00234",
+        "ArXiv": "2505.00234",
+        "DOI": "10.48550/arXiv.2505.00234",
+        "CorpusId": 278237252
+      },
+      "url": "https://www.semanticscholar.org/paper/1125a01656e1a022c82b15b539129e501ea8d007",
+      "title": "Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks",
+      "year": 2025,
+      "citationCount": 27,
+      "publicationDate": "2025-05-01"
+    },
+    "ARXIV:2107.03374": {
+      "paperId": "acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+      "externalIds": {
+        "ArXiv": "2107.03374",
+        "DBLP": "journals/corr/abs-2107-03374",
+        "DOI": "10.48550/arXiv.2107.03374",
+        "CorpusId": 235755472
+      },
+      "url": "https://www.semanticscholar.org/paper/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+      "title": "Evaluating Large Language Models Trained on Code",
+      "year": 2021,
+      "citationCount": 12851,
+      "publicationDate": "2021-07-07"
+    },
+    "DOI:10.1145/3147.3165": {
+      "paperId": "da01f7fcc5c7eeba75bc09a41fdd946e65210090",
+      "externalIds": {
+        "MAG": "2119885577",
+        "DBLP": "journals/toms/Vitter85",
+        "DOI": "10.1145/3147.3165",
+        "CorpusId": 17881708
+      },
+      "url": "https://www.semanticscholar.org/paper/da01f7fcc5c7eeba75bc09a41fdd946e65210090",
+      "title": "Random sampling with a reservoir",
+      "year": 1985,
+      "citationCount": 2112,
+      "publicationDate": "1985-03-01"
+    }
+  }
+}
